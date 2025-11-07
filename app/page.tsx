@@ -233,7 +233,7 @@ export default function Resume() {
           </h2>
           <p className="text-lg leading-relaxed text-muted-foreground max-w-3xl">
             I'm a Computer Science Engineering student with a strong foundation in{" "}
-            <span className="text-foreground font-semibold">Python, Data Science, and IoT</span>. I excel in designing
+            <span className="text-foreground font-semibold">Python, Data Science, and IoT</span>. I am profficient in designing
             intelligent systems, particularly in automated waste management and agricultural technology. My expertise
             spans <span className="text-foreground font-semibold">DSA, DBMS, Operating Systems, and Networking</span>.
             I'm driven by solving real-world problems through technology and continuously learning emerging
